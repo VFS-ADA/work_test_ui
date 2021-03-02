@@ -34,4 +34,4 @@ npm run lint
 - Code format PEP8
 - Project structure
 - Optimal use of the open source frameworks 
-- Feel free to add more function or refactor any code to better show you skills
+- Feel free to add more functions or refactor any code to better show you skills
